@@ -1,7 +1,7 @@
 
 Project structure divided into below packages
 1) base --> com.sugyant.codeassignment.base
-The BasicAnimal.java Interface provides the interface for deriving other Animal, Bird and Fish are derived.
+The BasicAnimal.java Interface provides the interface for deriving other Animal, Bird and Fish.
 
 Then we have object elements for each subtype of Animal, Bird or Fish
 
