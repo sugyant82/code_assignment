@@ -29,6 +29,6 @@ It also has the AnimalCount class which holds the logic for the problem on count
    
    Unit_test_results.png
    project_structure.png
-   rough_sketch_of_Objects.jpg
+   flow_diagram.jpg
    
 7) lib --> external dependent libraries like junit has been copied to this lib folder
