@@ -23,3 +23,12 @@ It also has the AnimalCount class which holds the logic for the problem on count
 
 5) resouces  --> src/resources/ApplicationMessages  
  it contains the property files with translations for foreingn langusge , which can be extended to any languages.  
+
+6) images   --> base project folder
+   Refer these images for project structure in Eclipse, rough flow diagram and UnitTest Run Screenshot in eclipse
+   
+   Unit_test_results.png
+   project_structure.png
+   rough_sketch_of_Objects.jpg
+   
+7) lib --> external dependent libraries like junit has been copied to this lib folder
